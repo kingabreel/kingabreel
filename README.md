@@ -4,10 +4,12 @@
 
 ---
 # Sobre mim
-Atualmente estou me graduando em Engenharia de Software na Jala University, focando na linguagem Java. Nas horas vagas costumo estudar sobre cybersegurança e banco de dados e também idiomas como o inglês e espanhol. Quando não estou estudando, geralmente estou treinando, seja musculação ou luta, também costumo praticar xadrez. Abaixo segue algumas informações dinâmicas:
+Atualmente estou me graduando em Engenharia de Software na Jala University, focando na linguagem Java. Nas horas vagas costumo estudar sobre ciber segurança e banco de dados e também idiomas como o inglês e espanhol. Quando não estou estudando, geralmente estou treinando, seja musculação ou luta, também costumo praticar xadrez.
+
+# About me
+Actually I am graduating in Software Engineering at Jala University, I am focusing on Java language and Angular framework to web development. During vacations I use to study cybersecurit, database and languages as English or Spanish. When I am not studying, probably I will be working out, taking care of my health and mental health. 
 
 ---
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kingabreel&show_icons=true&count_private=true&hide_border=false&title_color=8BE8FDFF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Gonçalves github stats" /> 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingabreel&layout=compact&hide_border=false&title_color=8BE8FDFF&text_color=87CEFA&bg_color=0d1117" />
@@ -26,15 +28,13 @@ Atualmente estou me graduando em Engenharia de Software na Jala University, foca
    </div>
 
 ---
-# Projetos
+# Projetos - Projects
 
-Template loja usando Angular | Criando API com Java e Spring Framework | Blog utilizando Angular
-
-[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/playzone-loja)    [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/API-restful)   [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/angular-blog)
+[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/playzone-loja)    [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/API-restful)   [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/social-pages)
 
 
 ---
-# Me contate:
+# Me contate - Contact me
 
 [<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg">](https://github.com/kingabreel)
 [<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/kingabreel)
