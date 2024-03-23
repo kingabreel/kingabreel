@@ -30,7 +30,7 @@ Actually I am graduating in Software Engineering at Jala University, I am focusi
 ---
 # Projetos - Projects
 
-[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/playzone-loja)    [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/API-restful)   [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/social-pages)
+[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/playzone-loja)    [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">]([https://github.com/kingabreel/API-restful](https://github.com/kingabreel/api-rest_musicas))   [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/social-pages)
 
 
 ---
