@@ -4,7 +4,6 @@
 
 ---
 # About me
-Actually I am graduating in Software Engineering at Jala University, I am focusing on Java language and Angular framework to web development. During vacations I use to study cybersecurit, database and languages as English or Spanish. When I am not studying, probably I will be working out, taking care of my health and mental health. 
 I am studying Software Engineering and during my career I faced projects that brought me some hard and soft skills, some of the programming languages that I have experience are:
 - Java
 - Javascript
