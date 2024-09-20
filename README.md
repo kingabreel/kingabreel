@@ -3,11 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=1000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=Me+chamo+Gabriel;)](https://www.linkedin.com/in/kingabreel/)
 
 ---
-# Sobre mim
-Atualmente estou me graduando em Engenharia de Software na Jala University, focando na linguagem Java. Nas horas vagas costumo estudar sobre ciber segurança e banco de dados e também idiomas como o inglês e espanhol. Quando não estou estudando, geralmente estou treinando, seja musculação ou luta, também costumo praticar xadrez.
-
 # About me
 Actually I am graduating in Software Engineering at Jala University, I am focusing on Java language and Angular framework to web development. During vacations I use to study cybersecurit, database and languages as English or Spanish. When I am not studying, probably I will be working out, taking care of my health and mental health. 
+I am studying Software Engineering and during my career I faced projects that brought me some hard and soft skills, some of the programming languages that I have experience are:
+- Java
+- Javascript
+- Typescript
+I also have experience with agile, some tools I used to apply agile are: Trello, Jira and Draw.io.
+The frameworks that I have used in my projects are:
+- Spring boot
+- Angular
+- React
 
 ---
 <div align="center">  
@@ -25,16 +31,23 @@ Actually I am graduating in Software Engineering at Jala University, I am focusi
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
+    <img align="center" alt="VsCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg">
+    <img align="center" alt="Gitlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original.svg">
+    <img align="center" alt="Junit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/junit/junit-plain-wordmark.svg">
+    <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg">
    </div>
 
 ---
-# Projetos - Projects
+# Projects
 
-[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/playzone-loja)    [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">]([https://github.com/kingabreel/API-restful](https://github.com/kingabreel/api-rest_musicas))   [<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/social-pages)
+[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/japan-spa)    
+[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/java-ee_web-app)  
+[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/angular_api-auth)
 
 
 ---
-# Me contate - Contact me
+# Contact me
 
 [<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg">](https://github.com/kingabreel)
 [<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/kingabreel)
