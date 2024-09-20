@@ -9,6 +9,7 @@ I am studying Software Engineering and during my career I faced projects that br
 - Java
 - Javascript
 - Typescript
+
 I also have experience with agile, some tools I used to apply agile are: Trello, Jira and Draw.io.
 The frameworks that I have used in my projects are:
 - Spring boot
