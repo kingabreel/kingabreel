@@ -37,19 +37,4 @@ The frameworks that I have used in my projects are:
     <img align="center" alt="Junit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/junit/junit-plain-wordmark.svg">
     <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg">
    </div>
-
----
-# Projects
-
-[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/5956/5956597.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/japan-spa)    
-[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3050/3050438.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/java-ee_web-app)  
-[<img align="center" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3234/3234971.png?ga=GA1.1.353218249.1694745315">](https://github.com/kingabreel/angular_api-auth)
-
-
----
-# Contact me
-
-[<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg">](https://github.com/kingabreel)
-[<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/kingabreel)
-
 ---
