@@ -4,23 +4,36 @@
 
 ---
 # About me
-I am studying Software Engineering and during my career I faced projects that brought me some hard and soft skills, some of the programming languages that I have experience are:
-- Java
-- Javascript
-- Typescript
+Hi I am Gabriel, experienced software developer in private enterprises, as well as with personal projects + academics projects. I already had worked in "starting projects" also in "legacy projects", both with completely different technologies and frameworks. I speak portuguese and english, and I also know something about german.
 
-I also have experience with agile, some tools I used to apply agile are: Trello, Jira and Draw.io.
-The frameworks that I have used in my projects are:
+Main stack in knowledge sorting order:
+- Java
+- Dart
+- Typescript
+- Javascript
+- SQL
+
+Frameworks:
 - Spring boot
+- Flutter
 - Angular
 - React
 
----
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kingabreel&show_icons=true&count_private=true&hide_border=false&title_color=8BE8FDFF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Gonçalves github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingabreel&layout=compact&hide_border=false&title_color=8BE8FDFF&text_color=87CEFA&bg_color=0d1117" />
-</div>
+For architectures, I know and I have experience with: event driven architecture, microsservices, modular monolith and domain driven architecture.
+I have knowledge in design patterns and always add some based on the requirement + architecture + trade-off.
 
+Know something but preffer to avoid as main role for now:
+- C#
+- Devops
+- Cloud
+- Terraform
+- Cybersec
+- JPA + JSF
+- QA
+
+Hobbies: Fighting, chess, gym, running.
+
+---
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h6 align="center">Hard skills</h1>
@@ -36,5 +49,6 @@ The frameworks that I have used in my projects are:
     <img align="center" alt="Gitlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="Junit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/junit/junit-plain-wordmark.svg">
     <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg">
-   </div>
+  </div>
+</div>
 ---
